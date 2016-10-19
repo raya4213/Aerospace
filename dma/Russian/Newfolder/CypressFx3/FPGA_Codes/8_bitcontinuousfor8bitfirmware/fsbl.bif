@@ -1,0 +1,5 @@
+the_ROM_image:
+{
+	[bootloader]C:\YKL\workspace\Vivado\workspace\ZynqFX3TestCounter8b_NoFra_8bIO\ZynqFX3TestCounter8b_NoFra_8bIO.sdk\fsbl\Debug\fsbl.elf
+	C:\YKL\workspace\Vivado\workspace\ZynqFX3TestCounter8b_NoFra_8bIO\ZynqFX3TestCounter8b_NoFra_8bIO.sdk\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+}

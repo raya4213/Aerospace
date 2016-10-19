@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]C:\YKL\workspace\Vivado\workspace\Zynq_FX3DataTest\Zynq_FX3DataTest.sdk\fsbl\Debug\fsbl.elf
+	C:\YKL\workspace\Vivado\workspace\Zynq_FX3DataTest\Zynq_FX3DataTest.sdk\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+	C:\YKL\workspace\Vivado\workspace\Zynq_FX3DataTest\Zynq_FX3DataTest.sdk\hello\Debug\hello.elf
+}

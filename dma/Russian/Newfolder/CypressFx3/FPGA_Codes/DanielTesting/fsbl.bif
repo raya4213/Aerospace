@@ -1,0 +1,5 @@
+the_ROM_image:
+{
+	[bootloader]C:\YKL\workspace\Vivado\workspace\ZynqPMOD_16b_NoFra_8bIO_Set1\ZynqPMOD_16b_NoFra_8bIO_Set1.sdk\fsbl\Debug\fsbl.elf
+	C:\YKL\workspace\Vivado\workspace\ZynqPMOD_16b_NoFra_8bIO_Set1\ZynqPMOD_16b_NoFra_8bIO_Set1.sdk\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+}
